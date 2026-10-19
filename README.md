@@ -30,7 +30,7 @@ Built as a full-stack portfolio project with **.NET (Clean Architecture)** and *
 
 | Layer | Technologies |
 |---|---|
-| Backend | .NET, ASP.NET Core Web API, Entity Framework Core, SQL Server |
+| Backend | .NET 10, ASP.NET Core Web API, Entity Framework Core, SQL Server |
 | Frontend | React, TypeScript, Vite, Tailwind CSS, React Router, TanStack Query |
 | AI | Ollama with `llama3.2` (provider is swappable via `IAiService`) |
 
