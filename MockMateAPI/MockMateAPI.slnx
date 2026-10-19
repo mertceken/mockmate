@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="MockMate.API/MockMate.API.csproj" />
+  <Project Path="MockMate.Application/MockMate.Application.csproj" />
+  <Project Path="MockMate.Domain/MockMate.Domain.csproj" />
+  <Project Path="MockMate.Infrastructure/MockMate.Infrastructure.csproj" />
+</Solution>

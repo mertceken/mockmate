@@ -1,0 +1,12 @@
+@MockMate.API_HostAddress = http://localhost:5046
+
+### 1) Oturum oluştur (AI soruları üretir)
+POST {{MockMate.API_HostAddress}}/api/sessions
+Content-Type: application/json
+
+{
+  "position": "Junior .NET Developer",
+  "techStack": "C#, ASP.NET Core, EF Core, SQL Server",
+  "level": "Junior",
+  "questionCount": 3
+}
